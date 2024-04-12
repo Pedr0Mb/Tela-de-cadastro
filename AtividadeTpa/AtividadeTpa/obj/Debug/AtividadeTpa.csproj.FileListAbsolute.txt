@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\AtividadeTpa\AtividadeTpa\bin\Debug\AtividadeTpa.exe.config
+C:\Users\user\source\repos\AtividadeTpa\AtividadeTpa\bin\Debug\AtividadeTpa.exe
+C:\Users\user\source\repos\AtividadeTpa\AtividadeTpa\bin\Debug\AtividadeTpa.pdb
+C:\Users\user\source\repos\AtividadeTpa\AtividadeTpa\obj\Debug\AtividadeTpa.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AtividadeTpa\AtividadeTpa\obj\Debug\AtividadeTpa.Fprincipal.resources
+C:\Users\user\source\repos\AtividadeTpa\AtividadeTpa\obj\Debug\AtividadeTpa.Properties.Resources.resources
+C:\Users\user\source\repos\AtividadeTpa\AtividadeTpa\obj\Debug\AtividadeTpa.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AtividadeTpa\AtividadeTpa\obj\Debug\AtividadeTpa.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AtividadeTpa\AtividadeTpa\obj\Debug\AtividadeTpa.exe
+C:\Users\user\source\repos\AtividadeTpa\AtividadeTpa\obj\Debug\AtividadeTpa.pdb
